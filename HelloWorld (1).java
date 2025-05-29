@@ -23,7 +23,10 @@ javap -verbose HelloWorld.class
 // More details: https://metebalci.com/blog/digging-into-jep-280-indify-string-concatenation/
 
 class MyString {
-
+  public Mystring()
+  {
+    System.out.println("committing a change, rcartee");
+  }
 }
 
 class HelloWorld {
