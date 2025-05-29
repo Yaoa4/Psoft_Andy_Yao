@@ -24,7 +24,10 @@ javap -verbose HelloWorld.class
 
 //commiting a change on my end - andy
 class MyString {
-
+  public Mystring()
+  {
+    System.out.println("committing a change, rcartee");
+  }
 }
 
 class HelloWorld {
